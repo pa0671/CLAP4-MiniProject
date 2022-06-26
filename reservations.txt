@@ -1,0 +1,8 @@
+0 1 2
+A O O
+B O O
+C O O
+D O O
+E O O
+F O O
+G O O
